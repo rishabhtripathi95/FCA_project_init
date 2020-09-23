@@ -1,0 +1,4 @@
+.error { display: none }
+.ng-submitted .error {
+     display: block;
+}
